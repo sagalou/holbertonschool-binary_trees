@@ -1,5 +1,4 @@
 #include "binary_trees.h"
-
 /**
  * binary_tree_preorder - Performs a pre-order traversal of a binary tree.
  * @tree: Pointer to the root node of the tree to traverse.
